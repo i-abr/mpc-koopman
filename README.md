@@ -1,8 +1,7 @@
 # Model-Based Control using Koopman Operators
-
-The Koopman operator $\mathcal{K}$ is an infinite dimensional linear operator that directly acts on the functions of state 
+The Koopman operator $K$ is an infinite dimensional linear operator that directly acts on the functions of state 
 $$
-    [Kg](x)  = g(F(x)),
+    \[K g \](x)  = g(F(x)),
 $$
 where $\circ$ is the composition operator such that
 $$
